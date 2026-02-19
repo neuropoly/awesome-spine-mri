@@ -31,6 +31,7 @@ Awesome list about open-source spine MRI dataset.
 - [my MRI whole Spine](https://data.mendeley.com/datasets/92grpns4xw/1) weird format
 - [Traveling Spine 7T CoilQA](https://openneuro.org/datasets/ds005025/versions/2.4.3)
 - [UChicago-ScopeMRI](https://data.midrc.org/discovery/H6K0-A61V)
+- [SPIDER - Lumbar spine segmentation in MR images](https://zenodo.org/records/10159290)
 
                  
 
