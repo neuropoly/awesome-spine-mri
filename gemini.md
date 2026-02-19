@@ -1,4 +1,5 @@
-Here is a list of datasets found by Gemini: 
+Here is a list of datasets found by Gemini Deep Research the 19/02/2026 with this prompt:
+Hi, I want to list all the publicly available datasets related spine MRI. Help me list them and generate a MD file where I have the name of the dataset and the link to access it.
 
 Dataset Name	Primary Anatomical/Pathological Focus	Verified Access Link
 SPIDER Challenge Dataset	Lumbar Spine Segmentation (Vertebrae, IVDs, Canal)	https://spider.grand-challenge.org/
