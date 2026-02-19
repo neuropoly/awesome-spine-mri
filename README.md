@@ -17,7 +17,7 @@ Awesome list about open-source spine MRI dataset.
 - [RF shimming in the cervical spinal cord at 7T](https://openneuro.org/datasets/ds004906/versions/2.4.0)
 - [Spinal Cord fMRI Segmentation Database (Multi-subject)](https://openneuro.org/datasets/ds005143/versions/1.3.1)
 - [Spinal fMRI reveals decreased descending inhibition during secondary mechanical hyperalgesia](https://openneuro.org/datasets/ds000138/versions/00002).
-- [Dataset of Instrumented Spinal Cord T1/T2-weighted MRI Scans]([url](https://data.mendeley.com/datasets/sjpx7md7cf/1))
+- [Dataset of Instrumented Spinal Cord T1/T2-weighted MRI Scans](https://data.mendeley.com/datasets/sjpx7md7cf/1)
 - [Spinal cord fMRI during upper limb movement](https://data.mendeley.com/datasets/yd695ynbdz/1)
 - [Lumbar Spine MRI Dataset](https://data.mendeley.com/datasets/k57fr854j2/2)
 
