@@ -26,6 +26,9 @@ Awesome list about open-source spine MRI dataset.
 - [LSS MRI AISSLab Dataset](https://data.mendeley.com/datasets/rgb77xm3jf/4)
 - [Composite Dataset of Lumbar Spine Mid-Sagittal](https://data.mendeley.com/datasets/k3b363f3vz/2)
 - [my MRI whole Spine](https://data.mendeley.com/datasets/92grpns4xw/1) weird format
+- [Traveling Spine 7T CoilQA](https://openneuro.org/datasets/ds005025/versions/2.4.3)
+
+
                  
 
 
