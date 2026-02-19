@@ -12,6 +12,7 @@ Awesome list about open-source spine MRI dataset.
 - [MRI mapping of hemodynamics in the human spinal cord](https://openneuro.org/datasets/ds004974/versions/1.0.2)
 - [Reliability of taskbased fMRI in the dorsal horn of the human spinal cord](https://openneuro.org/datasets/ds004926/versions/1.3.0)
 - [Simultaneous Brain and Spinal Cord at rest: an fMRI dataset](https://openneuro.org/datasets/ds005075/versions/1.0.1)
+- [GM Spinal Cord Segmentation Challenge](http://niftyweb.cs.ucl.ac.uk/challenge/index.php)
 - [Resting-state spinal cord fMRI](https://openneuro.org/datasets/ds004386/versions/1.1.2)
 - [Spatial distribution of hand-grasp motor task activity in spinal cord functional magnetic resonance imaging](https://openneuro.org/datasets/ds004616/versions/1.1.1)
 - [CoSpine Database_motor_dataset](https://openneuro.org/datasets/ds005884/versions/1.1.0)
