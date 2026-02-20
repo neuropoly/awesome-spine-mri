@@ -31,7 +31,11 @@ Awesome list about open-source spine MRI dataset.
 - [my MRI whole Spine](https://data.mendeley.com/datasets/92grpns4xw/1) weird format
 - [Traveling Spine 7T CoilQA](https://openneuro.org/datasets/ds005025/versions/2.4.3)
 - [UChicago-ScopeMRI](https://data.midrc.org/discovery/H6K0-A61V)
+- [RSNA 2024 Lumbar Spine Degenerative Classification](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification)
+- [TotalSegmentator MRI dataset: 616 MRI images with segmentations for 50 anatomical regions](https://zenodo.org/records/14710732)
+- [The MS-Multi-Spine Miccai 2025 Challenge](https://portal.fli-iam.irisa.fr/ms-multi-spine/)
 - [SPIDER - Lumbar spine segmentation in MR images](https://zenodo.org/records/10159290)
+
 
                  
 
