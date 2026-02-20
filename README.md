@@ -34,6 +34,7 @@ Awesome list about open-source spine MRI dataset.
 - [RSNA 2024 Lumbar Spine Degenerative Classification](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification)
 - [TotalSegmentator MRI dataset: 616 MRI images with segmentations for 50 anatomical regions](https://zenodo.org/records/14710732)
 - [The MS-Multi-Spine Miccai 2025 Challenge](https://portal.fli-iam.irisa.fr/ms-multi-spine/)
+- [SPIDER - Lumbar spine segmentation in MR images](https://zenodo.org/records/10159290)
 
 
                  
