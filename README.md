@@ -1,4 +1,4 @@
-# awesome-spine-MRI-data
+# awesome-spine-mri
 Awesome list about open-source spine MRI dataset. 
 
 
