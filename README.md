@@ -2,11 +2,11 @@
 Awesome list about open-source spine MRI dataset. 
 
 
-- [Duke-CSpineSeg](https://data.midrc.org/discovery/H6K0-A61V/)
-- [Spine Generic](https://zenodo.org/records/4299140)
-- [Courtois-NeuroMod longitudinal dataset](https://github.com/courtois-neuromod/anat)
-- [An open-access lumbosacral spine MRI dataset with enhanced spinal nerve root structure resolution](https://figshare.com/collections/An_open-access_lumbosacral_spine_MRI_dataset_with_enhanced_spinal_nerve_root_structure_resolution/7372564)
-- [Whole Spine](https://openneuro.org/datasets/ds005616/versions/1.1.2)
+- [Duke-CSpineSeg](https://data.midrc.org/discovery/H6K0-A61V/) (Cervical, 1255 Images)
+- [Spine Generic](https://zenodo.org/records/4299140) (Details : [Github](https://github.com/spine-generic/protocols))
+- [Courtois-NeuroMod longitudinal dataset](https://github.com/courtois-neuromod/anat) (Brain, Cervical)
+- [An open-access lumbosacral spine MRI dataset with enhanced spinal nerve root structure resolution](https://figshare.com/collections/An_open-access_lumbosacral_spine_MRI_dataset_with_enhanced_spinal_nerve_root_structure_resolution/7372564) (Lumbosacral)  
+- [Whole Spine](https://openneuro.org/datasets/ds005616/versions/1.1.2) (From the head to the torso)
 - [MS_myelitis](https://www.kaggle.com/datasets/turkertuncer/ms-myelitis)
 - [Spinal Cord Head Position](https://openneuro.org/datasets/ds004507/versions/1.1.1)
 - [MRI mapping of hemodynamics in the human spinal cord](https://openneuro.org/datasets/ds004974/versions/1.0.2)
