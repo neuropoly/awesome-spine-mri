@@ -5,7 +5,7 @@
 | **Duke-CSpineSeg** | Cervical | 1255 | T2w | Structural / Seg | [Link](https://data.midrc.org/discovery/H6K0-A61V/) |
 | **Spine Generic** | Multi-center | | T1w, T2w, T2*w, DWI | Multi-vendor | [Link](https://zenodo.org/records/4299140) |
 | **Courtois-NeuroMod** | Brain/Cervical | | | Longitudinal | [Link](https://github.com/courtois-neuromod/anat) |
-| **Lumbosacral (Figshare)** | Lumbosacral | | | Nerve Root Res | [Link](https://figshare.com/collections/An_open-access_lumbosacral_spine_MRI_dataset_with_enhanced_spinal_nerve_root_structure_resolution/7372564) |
+| **Lumbosacral ** | Lumbosacral | 14 | T2TSE, DESS, CISS | Nerve Root Res | [Link](https://figshare.com/collections/An_open-access_lumbosacral_spine_MRI_dataset_with_enhanced_spinal_nerve_root_structure_resolution/7372564) |
 | **Whole Spine** | Full Spine | | | Structural | [Link](https://openneuro.org/datasets/ds005616/versions/1.1.2) |
 | **MS_myelitis** | Spine | | | MS Pathology | [Link](https://www.kaggle.com/datasets/turkertuncer/ms-myelitis) |
 | **Spinal Cord Head Position** | Cervical | | | Motion/Position | [Link](https://openneuro.org/datasets/ds004507/versions/1.1.1) |
