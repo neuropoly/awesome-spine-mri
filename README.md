@@ -1,6 +1,9 @@
 # awesome-spine-mri
 Awesome list about open-source spine MRI dataset. 
 
+> [!WARNING]  
+> If you know of spine MRI datasets not listed here, please suggest adding them by opening a [new issue](https://github.com/neuropoly/awesome-spine-mri/issues/new/choose). 
+
 
 - [Duke-CSpineSeg](https://data.midrc.org/discovery/H6K0-A61V/) (Cervical, 1255 Images)
 - [Spine Generic](https://zenodo.org/records/4299140) (Details : [Github](https://github.com/spine-generic/protocols))
