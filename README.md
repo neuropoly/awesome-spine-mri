@@ -16,7 +16,7 @@ Awesome list about open-source spine MRI dataset.
 | **Spinal Cord Head Position** | Cervical | | | Motion/Position | [Link](https://openneuro.org/datasets/ds004507/versions/1.1.1) |
 | **Hemodynamics Mapping** | Spinal Cord | | | fMRI | [Link](https://openneuro.org/datasets/ds004974/versions/1.0.2) |
 | **Reliability Task fMRI** | Spinal Cord | | | Dorsal Horn fMRI | [Link](https://openneuro.org/datasets/ds004926/versions/1.3.0) |
-| **Simultaneous Brain/SC** | Brain & SC | | | Resting-state fMRI | [Link](https://openneuro.org/datasets/ds005075/versions/1.0.1) |
+| **Simultaneous Brain and Spinal Cord at rest: an fMRI datset** | Brain & SC | | | Resting-state fMRI | [Link](https://openneuro.org/datasets/ds005075/versions/1.0.1) |
 | **GM Seg Challenge** | Cervical | | T2*w | SC Segmentation | [Link](http://niftyweb.cs.ucl.ac.uk/challenge/index.php) |
 | **Resting-state SC fMRI** | Spinal Cord | | | rs-fMRI | [Link](https://openneuro.org/datasets/ds004386/versions/1.1.2) |
 | **Hand-grasp Motor Task** | Spinal Cord | | | Motor fMRI | [Link](https://openneuro.org/datasets/ds004616/versions/1.1.1) |
