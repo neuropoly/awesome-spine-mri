@@ -38,3 +38,4 @@ Awesome list about open-source spine MRI dataset.
 | [**SPIDER**](https://zenodo.org/records/10159290) | Lumbar | | | Segmentation |
 | [**Neuromuscular Pilot**](https://openneuro.org/datasets/ds006729) | Spine/Muscle | | | R01 Signature |
 | [**Neuromod Dataset**](https://github.com/courtois-neuromod/anat/tree/main) | Brain/Spine | 6 | T1w, T2w, T2*w, DWI | Longitudinal | 
+| [**CHAOS challenge**](https://www.kaggle.com/datasets/omarxadel/chaos-combined-ct-mr-healthy-abdominal-organ?resource=download) | Abdominal | 20 | T1w, PSIR, CT | Segmentation |
