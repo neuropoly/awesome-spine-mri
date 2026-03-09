@@ -38,3 +38,4 @@ Awesome list about open-source spine MRI dataset.
 | [**MS-Multi-Spine**](https://portal.fli-iam.irisa.fr/ms-multi-spine/) | Spine | | | MICCAI Challenge |
 | [**SPIDER**](https://zenodo.org/records/10159290) | Lumbar | | | Segmentation |
 | [**Neuromuscular Pilot**](https://openneuro.org/datasets/ds006729) | Spine/Muscle | | | R01 Signature |
+| [**Neuromod Dataset**](https://github.com/courtois-neuromod/anat/tree/main) | Brain/Spine | 6 | T1w, T2w, T2*w, DWI | Longitudinal | 
