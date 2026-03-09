@@ -1,4 +1,9 @@
-## Open-Source Spine MRI Datasets
+# awesome-spine-mri
+Awesome list about open-source spine MRI dataset. 
+
+> [!WARNING]  
+> If you know of spine MRI datasets not listed here, please suggest adding them by opening a [new issue](https://github.com/neuropoly/awesome-spine-mri/issues/new/choose). 
+
 
 | Dataset Name | Region | # Subjects | Contrast | Modality / Task | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
