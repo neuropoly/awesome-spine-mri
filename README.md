@@ -1,6 +1,6 @@
 ## Open-Source Spine MRI Datasets
 
-| Dataset Name | Region | Subjects | Contrast | Modality / Task | Link |
+| Dataset Name | Region | # Subjects | Contrast | Modality / Task | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Duke-CSpineSeg** | Cervical | 1255 | T2w | Structural / Seg | [Link](https://data.midrc.org/discovery/H6K0-A61V/) |
 | **Spine Generic** | Multi-center | | T1w, T2w, T2*w, DWI | Multi-vendor | [Link](https://zenodo.org/records/4299140) |
