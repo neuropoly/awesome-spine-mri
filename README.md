@@ -46,3 +46,7 @@ Awesome list about open-source spine MRI dataset.
 | [**Neuromuscular Pilot**](https://openneuro.org/datasets/ds006729) | 🟢 | Spine/Muscle | | | R01 Signature |
 | [**Neuromod Dataset**](https://github.com/courtois-neuromod/anat/tree/main) | 🟢 | Brain/Spine | 6 | T1w, T2w, T2*w, DWI | Longitudinal | 
 | [**CHAOS challenge**](https://www.kaggle.com/datasets/omarxadel/chaos-combined-ct-mr-healthy-abdominal-organ?resource=download) | 🟡 | Abdominal | 20 | T1w, PSIR, CT | Segmentation |
+| [**NAKO**](https://transfer.nako.de/transfer/index)|🟠  | Whole-spine | 30k BL, 20k FU | T2w  sag | German population study
+| [**SHIP**](https://transfer.ship-med.uni-greifswald.de/FAIRequest/data-use-explore) |🟠  | Whole-spine | ca. 5k, different cohorts  | T1w, T2w sag | North-German population study
+
+
