@@ -40,7 +40,7 @@ Awesome list about open-source spine MRI dataset.
 | [**my MRI whole Spine**](https://data.mendeley.com/datasets/92grpns4xw/1) | 🟢 | Whole Spine | | | (Weird format) |
 | [**7T CoilQA**](https://openneuro.org/datasets/ds005025/versions/2.4.3) | 🟢 | Spine | | | Hardware QA |
 | [**RSNA 2024 Lumbar**](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification) | 🟡 | Lumbar | | T1w, T2w, T2_STIR | Classification |
-| [**TotalSegmentator MRI**](https://zenodo.org/records/14710732) | ⚫ | Whole Body | 616 | | 50-region Seg |
+| [**TotalSegmentator MRI**](https://zenodo.org/records/14710732) | 🟢 | Whole Body | 616 | | 50-region Seg |
 | [**MS-Multi-Spine**](https://portal.fli-iam.irisa.fr/ms-multi-spine/) | ⚫ | Spine | | | MICCAI Challenge |
 | [**SPIDER**](https://zenodo.org/records/10159290) | ⚫ | Lumbar | | | Segmentation |
 | [**Neuromuscular Pilot**](https://openneuro.org/datasets/ds006729) | 🟢 | Spine/Muscle | | | R01 Signature |
