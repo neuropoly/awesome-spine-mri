@@ -48,5 +48,6 @@ Awesome list about open-source spine MRI dataset.
 | [**CHAOS challenge**](https://www.kaggle.com/datasets/omarxadel/chaos-combined-ct-mr-healthy-abdominal-organ?resource=download) | 🟡 | Abdominal | 20 | T1w, PSIR, CT | Segmentation | | | |
 | [**NAKO**](https://transfer.nako.de/transfer/index)|🟠  | Whole-spine | 30k BL, 20k FU | T2w  sag | German population study | | | |
 | [**SHIP**](https://transfer.ship-med.uni-greifswald.de/FAIRequest/data-use-explore) |🟠  | Whole-spine | ca. 5k, different cohorts  | T1w, T2w sag | North-German population study | | | |
+| [**Brain/SC multishell diffusion MRI**](https://zenodo.org/records/15512428) |🟢 | Brain/Spine | 11  | T2star, T2w, dWI | | | | |
 
 
