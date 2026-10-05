@@ -49,5 +49,5 @@ Awesome list about open-source spine MRI dataset.
 | [**NAKO**](https://transfer.nako.de/transfer/index)|🟠  | Whole-spine | 30k BL, 20k FU | T2w  sag | German population study | | | |
 | [**SHIP**](https://transfer.ship-med.uni-greifswald.de/FAIRequest/data-use-explore) |🟠  | Whole-spine | ca. 5k, different cohorts  | T1w, T2w sag | North-German population study | | | |
 | [**Brain/SC multishell diffusion MRI**](https://zenodo.org/records/15512428) |🟢 | Brain/Spine | 11  | T2star, T2w, dWI | | | | |
-
+| [**dMRI-exvivo-data**](https://doi.org/10.17894/ucph.3985d2bf-f40f-430e-b350-0939affc4f92) | 🟢 | Spinal Cord (C1–S5) | 1 (ex vivo) | T2w RARE, dMRI (b=4000, 80 dir) | Ex vivo 9.4T microstructure / GM-WM seg | 91 | 100 | 0 |
 
