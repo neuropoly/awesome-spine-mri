@@ -37,7 +37,6 @@ Awesome list about open-source spine MRI dataset.
 | [**LSpineSMRI**](https://data.mendeley.com/datasets/kr8ttxsbb8/2) | 🟢 | Lumbar | | | | | | |
 | [**LSS MRI AISSLab**](https://data.mendeley.com/datasets/rgb77xm3jf/4) | 🟢 | Lumbar | | | Spinal Stenosis | | | |
 | [**Mid-Sagittal Composite**](https://data.mendeley.com/datasets/k3b363f3vz/2) | 🟢 | Lumbar | | | Composite | | | |
-| [**my MRI whole Spine**](https://data.mendeley.com/datasets/92grpns4xw/1) | 🟢 | Whole Spine | | | (Weird format) | | | |
 | [**7T CoilQA**](https://openneuro.org/datasets/ds005025/versions/2.4.3) | 🟢 | Spine | | | Hardware QA | | | |
 | [**RSNA 2024 Lumbar**](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification) | 🟡 | Lumbar | | T1w, T2w, T2_STIR | Classification | | | |
 | [**TotalSegmentator MRI**](https://zenodo.org/records/14710732) | 🟢 | Whole Body | 616 | | 50-region Seg | | | |
